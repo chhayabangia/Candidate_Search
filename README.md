@@ -13,19 +13,21 @@ Candidate Search Application that calls the Github API and renders data in brows
 ## Installation
 Following will be required in this project:
 
--Cloning of repository
--Navigating to the provided folder
--Installing packages 
--Account with Render
+- Cloning of repository
+- Navigating to the provided folder
+- Installing packages 
+- Account with Render
 
 ## Usage
--Using npm i
--Using npm run build
--Using npm run dev
+- Using npm i
+- Using npm run build
+- Using npm run dev
+- Render Build command - npm install; npm run build
+- Publish Directory - dist
 
 ## Credits
--Utilized Xpert Learning Assistant to resolve functionality issues
--Attended Tutor session to troubleshoot errors
+- Utilized Xpert Learning Assistant to resolve functionality issues
+- Attended Tutor session to troubleshoot errors
 
 ## License
 This project is licensed under MIT.
@@ -34,3 +36,4 @@ This project is licensed under MIT.
 https://candidate-search-1-koy2.onrender.com/
 
 ## Github Repository
+https://github.com/chhayabangia/Candidate_Search.git
